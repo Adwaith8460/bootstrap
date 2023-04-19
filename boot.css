@@ -1,0 +1,11 @@
+#navbarSupportedContent .navbar-nav .nav-item .nav-link{
+    color: #fff;
+}
+
+#carouselExampleCaptions .carousel-inner .carousel-item img{
+    max-height: 500px;
+    width: auto;
+}
+#carouselExampleCaptions .carousel-inner .carousel-item .carousel-caption{
+    background-color: rgba(0, 0, 0, 0.63);
+}
